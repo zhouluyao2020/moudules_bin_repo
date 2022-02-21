@@ -1,0 +1,33 @@
+{
+  "name": "Charts",
+  "version": "3.6.0",
+  "summary": "Charts is a powerful & easy to use chart library for iOS, tvOS and OSX (and Android)",
+  "homepage": "https://github.com/danielgindi/Charts",
+  "license": {
+    "type": "Apache License, Version 2.0",
+    "file": "LICENSE"
+  },
+  "authors": [
+    "Daniel Cohen Gindi",
+    "Philipp Jahoda"
+  ],
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "http": "http://192.168.25.85:8081/frameworks/Charts/3.6.0/zip",
+    "type": "zip"
+  },
+  "default_subspecs": "Core",
+  "swift_versions": "5.3",
+  "cocoapods_version": ">= 1.5.0",
+  "vendored_frameworks": "Charts.framework",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」",
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "Source/Charts/**/*.swift"
+    }
+  ],
+  "swift_version": "5.3"
+}
