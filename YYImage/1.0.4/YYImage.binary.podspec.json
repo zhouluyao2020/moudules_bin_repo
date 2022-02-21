@@ -1,0 +1,26 @@
+{
+  "name": "YYImage",
+  "summary": "Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.",
+  "version": "1.0.4",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ibireme": "ibireme@gmail.com"
+  },
+  "social_media_url": "http://blog.ibireme.com",
+  "homepage": "https://github.com/ibireme/YYImage",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "http": "http://192.168.25.85:8081/frameworks/YYImage/1.0.4/zip",
+    "type": "zip"
+  },
+  "requires_arc": true,
+  "source_files": "bin_YYImage_1.0.4/Headers/*",
+  "public_header_files": "bin_YYImage_1.0.4/Headers/*.h",
+  "vendored_libraries": "bin_YYImage_1.0.4/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
