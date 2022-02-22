@@ -1,0 +1,22 @@
+{
+  "name": "ZFDragableModalTransition",
+  "version": "0.6",
+  "summary": "Custom animation transition for present modal view controller",
+  "homepage": "https://github.com/zoonooz/ZFDragableModalTransition",
+  "license": "MIT",
+  "authors": {
+    "Amornchai Kanokpullwad": "amornchai.zoon@gmail.com"
+  },
+  "source": {
+    "http": "http://192.168.25.85:8081/frameworks/ZFDragableModalTransition/0.6/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "7.1"
+  },
+  "requires_arc": true,
+  "source_files": "bin_ZFDragableModalTransition_0.6/Headers/*",
+  "public_header_files": "bin_ZFDragableModalTransition_0.6/Headers/*.h",
+  "vendored_libraries": "bin_ZFDragableModalTransition_0.6/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
