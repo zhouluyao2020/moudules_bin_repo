@@ -1,0 +1,39 @@
+{
+  "name": "pod_bin_demo2",
+  "version": "1.1.2",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n 我只是一个测试的，主要是想要 s.dependency",
+  "license": "MIT",
+  "summary": "Seeyou",
+  "homepage": "https://github.com/meiyoudev/IMYPublic",
+  "authors": {
+    "suliangjin": "suliangjin@xiaoyouzi.com"
+  },
+  "source": {
+    "http": "http://192.168.25.85:8081/frameworks/pod_bin_demo2/1.1.2/zip",
+    "type": "zip"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "pod_bin_demo/**/*.{h,m,c}",
+  "public_header_files": "pod_bin_demo/**/*.h",
+  "dependencies": {
+    "MJRefresh": [
+      "3.1.15"
+    ],
+    "SGQRCode": [
+
+    ],
+    "ZFDragableModalTransition": [
+
+    ],
+    "YYModel": [
+
+    ],
+    "OffcnQuestionKit": [
+      "0.2.3"
+    ]
+  },
+  "vendored_frameworks": "pod_bin_demo2.framework"
+}
