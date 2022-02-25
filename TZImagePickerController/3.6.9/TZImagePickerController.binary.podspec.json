@@ -1,0 +1,26 @@
+{
+  "name": "TZImagePickerController",
+  "version": "3.6.9",
+  "summary": "A clone of UIImagePickerController, support picking multiple photos、original photo and video",
+  "homepage": "https://github.com/banchichen/TZImagePickerController",
+  "license": "MIT",
+  "authors": {
+    "banchichen": "tanzhenios@foxmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "http://192.168.25.85:8081/frameworks/TZImagePickerController/3.6.9/zip",
+    "type": "zip"
+  },
+  "requires_arc": true,
+  "resources": [
+    "TZImagePickerController.framework/Resources/*.{png,bundle}",
+    "TZImagePickerController.framework/Versions/A/Resources/*.{png,bundle}"
+  ],
+  "source_files": "TZImagePickerController/TZImagePickerController/*.{h,m}",
+  "frameworks": "Photos",
+  "vendored_frameworks": "TZImagePickerController.framework",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
