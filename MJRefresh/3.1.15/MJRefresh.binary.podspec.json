@@ -1,0 +1,25 @@
+{
+  "name": "MJRefresh",
+  "version": "3.1.15",
+  "summary": "An easy way to use pull-to-refresh",
+  "homepage": "https://github.com/CoderMJLee/MJRefresh",
+  "license": "MIT",
+  "authors": {
+    "MJ Lee": "199109106@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "http": "http://192.168.25.85:8081/frameworks/MJRefresh/3.1.15/zip",
+    "type": "zip"
+  },
+  "source_files": "MJRefresh/**/*.{h,m}",
+  "resources": [
+    "MJRefresh.framework/Resources/MJRefresh.bundle",
+    "MJRefresh.framework/Versions/A/Resources/MJRefresh.bundle"
+  ],
+  "requires_arc": true,
+  "vendored_frameworks": "MJRefresh.framework",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
